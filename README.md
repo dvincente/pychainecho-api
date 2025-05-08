@@ -35,19 +35,19 @@ print(categories)
 News response format is as the following:
 
 
-| Field     | Type    | Description               |
-| --------- | ------- | ------------------------- |
-| `id`      | integer  | Unique ID  |
-| `ntype` | string  | News Type  |
-| `nid`    | integer | News ID    |
-| `guid` | string  | News GUID  |
-| `published_on` | string  | Published Date  |
-| `image_url` | string  | News Thumbnail URI  |
-| `title` | string  | News Title  |
-| `url` | string  | News URI  |
-| `source_id` | integer  | Source ID  |
-| `body` | string  | Summary Content  |
-| `keywords` | string  | Keywords  |
-| `lang` | string  | Language  |
-| `category` | string  | Categories  |
+| Field           | Type    | Description               |
+| --------------- | ------- | ------------------------- |
+| `id`            | integer | Unique ID                 |
+| `ntype`         | string  | News Type                 |
+| `nid`           | integer | News ID                   |
+| `guid`          | string  | News GUID                 |
+| `published_on`  | string  | Published Date            |
+| `image_url`     | string  | News Thumbnail URI        |
+| `title`         | string  | News Title                |
+| `url`           | string  | News URI                  |
+| `source_id`     | integer | Source ID                 |
+| `body`          | string  | Summary Content           |
+| `keywords`      | string  | Keywords                  |
+| `lang`          | string  | Language                  |
+| `category`      | string  | Categories                |
 
